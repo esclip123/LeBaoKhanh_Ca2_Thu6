@@ -12,10 +12,10 @@ Tôi đã tích lũy được nhiều kinh nghiệm qua các dự án cá nhân 
 
 ## 🛠️ Kỹ năng
 - **Ngôn ngữ lập trình:** Dart, Python, Java
-- **Frameworks và công nghệ:** Flutter, Firebase, Odoo
-- **Quản lý dữ liệu:** MySQL, Firebase Realtime Database
+- **Frameworks và công nghệ:** Flutter, Firebase
+- **Quản lý dữ liệu:** Firebase Realtime Database
 - **Kiểm thử phần mềm:** Kiểm thử chức năng, kiểm thử API, kiểm thử tự động
-- **Công cụ quản lý dự án:** Git, Trello, Jira
+- **Công cụ quản lý dự án:** Git
 
 ## 🌱 Định hướng phát triển
 Tôi đang không ngừng học hỏi và nâng cao các kỹ năng về kiểm thử phần mềm và phát triển ứng dụng di động. Mục tiêu của tôi là phát triển sâu hơn trong lĩnh vực kiểm thử tự động và có thể độc lập thực hiện các dự án kiểm thử phức tạp.
